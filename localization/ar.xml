@@ -25,7 +25,7 @@
             <taxRule iso_code_country="ar" id_tax="3" />
         </taxRulesGroup>
     
-        <taxRulesGroup name="AR Zero rate (0%)">
+    <taxRulesGroup name="AR Zero rate (0%)">
             <taxRule iso_code_country="ar" id_tax="4" />
         </taxRulesGroup>
 	</taxes>
